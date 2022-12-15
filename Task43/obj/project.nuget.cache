@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eC4cSH6N6RCJ9c+TTBqDpm/KS+c6x/4nl/RBsaPY6F3y574wodc/TzCGl+HY+WZW+k15j9w/Wigm3CfDcxgVKA==",
+  "success": true,
+  "projectFilePath": "/home/Andy-PC/Рабочий стол/HomeWork6_Scharp/Task43/Task43.csproj",
+  "expectedPackageFiles": [
+    "/home/Andy-PC/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/Andy-PC/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/home/Andy-PC/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.11/microsoft.netcore.app.host.linux-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
